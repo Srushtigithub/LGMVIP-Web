@@ -1,2 +1,4 @@
 # LGMVIP-Web
-Web development task 1
+February batch
+Webdevelopment task1:Todo list
+Webdevelopment task2:Calculator
